@@ -1,0 +1,29 @@
+[
+  {
+    "brand": "Rolex",
+    "model": "Submariner",
+    "price": 8000,
+    "waterResistance": "300 meters",
+    "movement": "Automatic",
+    "caseMaterial": "Stainless Steel",
+    "imageURL": "https://example.com/rolex-submariner.jpg"
+  },
+  {
+    "brand": "Omega",
+    "model": "Seamaster",
+    "price": 6000,
+    "waterResistance": "200 meters",
+    "movement": "Automatic",
+    "caseMaterial": "Titanium",
+    "imageURL": "https://example.com/omega-seamaster.jpg"
+  },
+  {
+    "brand": "Tag Heuer",
+    "model": "Carrera",
+    "price": 4500,
+    "waterResistance": "100 meters",
+    "movement": "Automatic",
+    "caseMaterial": "Stainless Steel",
+    "imageURL": "https://example.com/tag-heuer-carrera.jpg"
+  }
+]
